@@ -1,7 +1,7 @@
 # web-network-analitics
 
 
-![Packet Sniffer](https://upload.wikimedia.org/wikipedia/commons/3/3c/Network_traffic.png)
+![Packet Sniffer](https://raw.githubusercontent.com/jero98772/web-network-analitics/refs/heads/main/docs/pictures/1.png)
 
 ## Overview
 This project is a real-time packet sniffer and analyzer built using FastAPI, WebSockets, and a C-based packet capture utility. It allows users to capture and analyze network packets, displaying results in a web dashboard with real-time updates and visualizations.
@@ -83,5 +83,5 @@ packet-sniffer/
 Feel free to submit issues or pull requests to improve this project.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GLPv3 License.
 
